@@ -1,0 +1,23 @@
+.child{
+     padding-left: 5px;
+ }
+
+.open_folder{
+    width: 20px;
+    height: 20px;
+}
+.closed_folder{
+    width: 20px;
+    height: 20px;
+}
+
+.child img{
+    padding-right: 5px;
+}
+.folders{
+}
+
+.item{
+    display: flex;
+    align-items: center;
+}

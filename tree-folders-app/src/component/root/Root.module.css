@@ -1,0 +1,17 @@
+.root {
+    position: absolute;
+    top: 60px;
+    padding-left: 20px;
+}
+
+.root li {
+    list-style: none;
+}
+
+.item{
+    display: flex;
+    align-items: center;
+}
+.root img{
+    padding-right: 5px;
+}
